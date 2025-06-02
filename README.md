@@ -18,22 +18,22 @@ Aplicación móvil desarrollada en **Flutter** que permite gestionar equipos de 
 ## 📷 Capturas de pantalla
 
 ### 🏠 Página Inicial
-<img src="screenshots/home.jfif" alt="Página Inicial" width="500"/>
+<img src="screenshots/home.jfif" alt="Página Inicial" width="250"/>
 
 ### 🏟️ Detalle del Equipo
-<img src="screenshots/team_detail.jfif" alt="Detalle del equipo" width="500"/>
+<img src="screenshots/team_detail.jfif" alt="Detalle del equipo" width="250"/>
 
 ### 📋 Lista de Equipos
-<img src="screenshots/teams.jfif" alt="Lista de equipos" width="500"/>
+<img src="screenshots/teams.jfif" alt="Lista de equipos" width="250"/>
 
 ### 📁 Menú del Equipo
-<img src="screenshots/menu.jfif" alt="Menú del equipo" width="500"/>
+<img src="screenshots/menu.jfif" alt="Menú del equipo" width="250"/>
 
 ### 👥 Listado de Jugadores
-<img src="screenshots/player_list.jfif" alt="Listado de jugadores" width="500"/>
+<img src="screenshots/player_list.jfif" alt="Listado de jugadores" width="250"/>
 
 ### 🧠 Simulación de Partidos
-<img src="screenshots/simulated.jfif" alt="Simulación de partidos" width="500"/>
+<img src="screenshots/simulated.jfif" alt="Simulación de partidos" width="250"/>
 
 ---
 
