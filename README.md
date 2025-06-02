@@ -34,6 +34,25 @@ lib/
 ├── theme/ # Archivo AppTheme para colores y estilos globales
 └── main.dart # Entrada principal de la app
 
+
+## 📷 Capturas de pantalla
+
+### 🏟️ Detalle del equipo
+![Detalle del equipo](screenshots/team_detail.jfif)
+
+### 👥 Listado de jugadores
+![Listado de jugadores](screenshots/player_list.jfif)
+### 👥 Pagina inicial
+![Pagina Inicial](screenshots/home.jfif)
+### 👥 Menu de cada equipo
+![Menu](screenshots/menu.jfif)
+### 👥 Lista de equipos
+![Equipos](screenshots/teams.jfif)
+###  Simulated 
+![Simulacion](screenshots/simulated.jfif)
+
+
+
 🧩 Tecnologías utilizadas
 Flutter (Dart)
 
