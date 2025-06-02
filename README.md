@@ -1,19 +1,64 @@
-# app_futbol
+# ⚽ App de Gestión de Equipos de Fútbol
 
-# RETO DE ENTREVISTA TECNICA
+Aplicación móvil desarrollada en **Flutter** que permite gestionar equipos de fútbol de forma local. Los usuarios pueden crear equipos, asignar entrenadores, agregar jugadores, visualizar la plantilla y aplicar filtros por posición. Ideal para pruebas técnicas, portafolios o como base para proyectos deportivos.
 
-Debes diseñar un programa que permita gestionar un equipo de fútbol, incluyendo
-jugadores, entrenador. El programa debe permitir:
+---
 
-1. ✔️ Crear Equipos (nombre )
-2. ✔️ Añadir jugadores (nombre, posición, número de camiseta, edad, posición).
-3. ✔️ Asignar un entrenador (nombre, edad, estrategia).
-4. ✔️ Listar el equipo completo (jugadores y entrenador).
-5. ✔️ Buscar jugadores por posición (ejemplo: "Delantero", "Defensa").
-6. ✔️ Simular un partido (se deberá elegir 2 equipos y de forma randonica
-definir el ganador).
-7. ✔️ Mostrar los equipos con partidos mas ganados
-Para este reto puedes usar Flutter o React Native, y la Base de datos a su
-elección
-Se revisará la funcionalidad y la implementación de código
-Nota en la entrevista solo se revisará Fron-end
+## 📱 Características principales
+
+- ✅ Crear equipos con nombre e imagen (escudo).
+- ✅ Asignar entrenadores con nombre, edad y estrategia.
+- ✅ Agregar jugadores con datos personales y posición.
+- ✅ Visualizar detalles del equipo y entrenador.
+- ✅ Mostrar jugadores en cuadrícula con tarjetas.
+- ✅ Filtrar jugadores por posición.
+- ✅ Estilo moderno, responsivo y limpio.
+
+---
+
+## ⚙️ Instalación y Ejecución
+📲 Móvil (Flutter)
+git clone https://github.com/carlosFFR/futbol-app
+cd futbol-app
+flutter pub get
+flutter run
+
+## 🧱 Estructura del proyecto
+
+lib/
+├── controllers/ # Controladores para manejar lógica
+├── models/ # Modelos de datos: Team, Player, Coach
+├── screens/ # Pantallas principales y de detalle
+├── widgets/ # Componentes reutilizables como PlayerCard
+├── theme/ # Archivo AppTheme para colores y estilos globales
+└── main.dart # Entrada principal de la app
+
+🧩 Tecnologías utilizadas
+Flutter (Dart)
+
+sqflite para base de datos local (SQLite)
+
+Arquitectura tipo MVC (Modelo - Vista - Controlador)
+
+Buenas prácticas en organización de carpetas y código limpio
+
+📌 Estado del proyecto
+[✔️] UI funcional y responsiva
+
+[✔️] Almacenamiento local con sqflite
+
+[✔️] CRUD de equipos, jugadores y entrenadores
+
+[✔️] Validaciones en formularios
+
+[🟡] Se puede extender con estadísticas y simulaciones
+
+👨‍💻 Autor
+Carlos Rios
+Desarrollador Flutter | Full Stack
+✉️ Email: carlosfernandofloresrios@gamil.com
+💬 WhatsApp: +591 67344906
+🌐 Portafolio: carlos-rios.vercel.app
+
+📝 Licencia
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
