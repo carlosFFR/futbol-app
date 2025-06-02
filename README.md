@@ -17,9 +17,10 @@ Aplicación móvil desarrollada en **Flutter** que permite gestionar equipos de 
 ---
 
 ## ⚙️ Instalación y Ejecución
-📲 Móvil (Flutter)
+## 📲 Móvil (Flutter)
+```bash
 git clone https://github.com/carlosFFR/futbol-app
-cd futbol-app
+cd luka-app
 flutter pub get
 flutter run
 
